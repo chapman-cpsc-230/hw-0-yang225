@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** _\<Joon Seok Yang\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<February 4th, 2016\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\ For this assignment, I had to clone my repository into my device. In addition to cloning my repository, I edited my README.md file.\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\From this assignment, I gained a little knowledge of how Atom and GitHub works. I also learned that Windows operate quite differently than MacBook.\>_
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Joon Seok Yang\>_
